@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Dat and I am currently a college graduate with a Bachelor of Computer Science at UC San Diego!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="![image](https://user-images.githubusercontent.com/53798192/216243969-94cc6a70-ffe5-41a5-802e-71867f2a2980.png)" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
