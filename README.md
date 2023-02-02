@@ -17,7 +17,7 @@ Welcome to my Github page! I am Dat and I am currently a college graduate with a
 #### 🌱 Things I am currently working on: 
 - Finishing a CodeAcademy Full-Stack Developer Path  
 - Building side projects for my portfolio 
-- Griding LeetCode to prepare for interviews
+- Grinding LeetCode to prepare for interviews
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
