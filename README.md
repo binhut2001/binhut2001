@@ -11,9 +11,9 @@ Welcome to my Github page! I am Dat and I am currently a college graduate with a
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Finishing a CodeAcademy Full-Stack Developer Path  
+- Building side projects for my portfolio 
+- Griding LeetCode to prepare for interviews
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
