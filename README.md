@@ -1,9 +1,9 @@
 ### Hi there 👋 
 ### This is Dat Nguyen!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/binhut2001)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dat-nguyen-13358b193/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:datxnguyen26@gmail.com)
 
 Welcome to my Github page! I am Dat and I am currently a college graduate with a Bachelor of Computer Science at UC San Diego!  
 
@@ -17,9 +17,9 @@ Welcome to my Github page! I am Dat and I am currently a college graduate with a
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Coding at least 3 hours a day
+- Exercising 4 days a week
+- Improving my resume with new skills and projects
 
 #### :computer: Programming languages and tools: 
 <p>
